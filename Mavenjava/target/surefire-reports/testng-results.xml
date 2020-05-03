@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="72" started-at="2020-04-07T18:02:31Z" finished-at="2020-04-07T18:02:31Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="72" started-at="2020-04-07T18:02:31Z" finished-at="2020-04-07T18:02:31Z">
+      <class name="Qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:Qaclickacademy.SeleniumTest@7fe8ea47]" name="browserAutomation" duration-ms="12" started-at="2020-04-07T18:02:31Z" finished-at="2020-04-07T18:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="elementUi()[pri:0, instance:Qaclickacademy.SeleniumTest@7fe8ea47]" name="elementUi" duration-ms="0" started-at="2020-04-07T18:02:31Z" finished-at="2020-04-07T18:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUi -->
+      </class> <!-- Qaclickacademy.SeleniumTest -->
+      <class name="Qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="appiumTest()[pri:0, instance:Qaclickacademy.AppiumTest@226a82c4]" name="appiumTest" duration-ms="1" started-at="2020-04-07T18:02:31Z" finished-at="2020-04-07T18:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumTest -->
+        <test-method status="PASS" signature="mobileTest()[pri:0, instance:Qaclickacademy.AppiumTest@226a82c4]" name="mobileTest" duration-ms="1" started-at="2020-04-07T18:02:31Z" finished-at="2020-04-07T18:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileTest -->
+      </class> <!-- Qaclickacademy.AppiumTest -->
+      <class name="Qaclickacademy.RestAssuredTest">
+        <test-method status="PASS" signature="apiTest()[pri:0, instance:Qaclickacademy.RestAssuredTest@731f8236]" name="apiTest" duration-ms="0" started-at="2020-04-07T18:02:31Z" finished-at="2020-04-07T18:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiTest -->
+        <test-method status="PASS" signature="postmanTest()[pri:0, instance:Qaclickacademy.RestAssuredTest@731f8236]" name="postmanTest" duration-ms="0" started-at="2020-04-07T18:02:31Z" finished-at="2020-04-07T18:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postmanTest -->
+      </class> <!-- Qaclickacademy.RestAssuredTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
